@@ -1090,7 +1090,7 @@ a {
 .div-row-padding>.div-threequarter,
 .div-row-padding>.div-quarter,
 .div-row-padding>.div-col {
-    padding: 0 8px
+    padding: 8px
 }
 
 .div-container,
@@ -1495,8 +1495,8 @@ a {
 }
 
 .div-button:hover {
-    color: #000 !important;
-    background-color: #ccc !important
+    color: #FFFFFF !important;
+    background-color: #C72B32 !important
 }
 
 .div-transparent,
@@ -1646,7 +1646,7 @@ a {
 .div-black,
 .div-hover-black:hover {
     color: #fff !important;
-    background-color: #000 !important
+    background-color: #205A28 !important
 }
 
 .div-grey,
@@ -1654,7 +1654,7 @@ a {
 .div-gray,
 .div-hover-gray:hover {
     color: #000 !important;
-    background-color: #9e9e9e !important
+    background-color: #C72B32 !important
 }
 
 .div-light-grey,
